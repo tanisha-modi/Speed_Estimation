@@ -1,0 +1,90 @@
+Violation Report:
+Time: 20240629_144255
+Vehicle Type: car
+Speed: 21.778955197339645 km/h
+Track ID: 12
+
+Violation Report:
+Time: 20240629_144256
+Vehicle Type: car
+Speed: 33.592255116735 km/h
+Track ID: 1
+
+Violation Report:
+Time: 20240629_144322
+Vehicle Type: car
+Speed: 20.387104653304352 km/h
+Track ID: 21
+
+Violation Report:
+Time: 20240629_144327
+Vehicle Type: car
+Speed: 23.65855490693034 km/h
+Track ID: 27
+
+Violation Report:
+Time: 20240629_144332
+Vehicle Type: car
+Speed: 76.57814186633847 km/h
+Track ID: 28
+
+Violation Report:
+Time: 20240629_144333
+Vehicle Type: bus
+Speed: 25.84324186063507 km/h
+Track ID: 10
+
+Violation Report:
+Time: 20240629_144333
+Vehicle Type: car
+Speed: 40.565074507564944 km/h
+Track ID: 30
+
+Violation Report:
+Time: 20240629_144345
+Vehicle Type: truck
+Speed: 47.650289938189005 km/h
+Track ID: 35
+
+Violation Report:
+Time: 20240629_144348
+Vehicle Type: car
+Speed: 23.5373026361733 km/h
+Track ID: 37
+
+Violation Report:
+Time: 20240629_144350
+Vehicle Type: car
+Speed: 24.319191293048984 km/h
+Track ID: 36
+
+Violation Report:
+Time: 20240629_144356
+Vehicle Type: car
+Speed: 45.26787497551904 km/h
+Track ID: 38
+
+Violation Report:
+Time: 20240629_144359
+Vehicle Type: car
+Speed: 27.308642075149358 km/h
+Track ID: 39
+
+Violation Report:
+Time: 20240629_144402
+Vehicle Type: car
+Speed: 31.964265085294006 km/h
+Track ID: 41
+
+Violation Report:
+Time: 20240629_144414
+Vehicle Type: truck
+Speed: 40.3596549641491 km/h
+Track ID: 44
+
+Violation Report:
+Time: 20240629_144441
+Vehicle Type: car
+Speed: 20.856486250891514 km/h
+Track ID: 50
+
